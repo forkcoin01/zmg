@@ -20,6 +20,8 @@ exchanges : https://graviex.net/markets/zmgbtc
 decentralized exchanges : https://wallet.crypto-bridge.org/market/BRIDGE.ZMG_BRIDGE.BTC  
 masternode online : https://masternodes.online/currencies/ZMG/  
   
+[`wallet`](https://github.com/robinadaptor/zmining-wallet)    
+
 ***
 ## Donations 
   

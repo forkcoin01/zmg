@@ -10,7 +10,7 @@ algorithm	: X11
 block reward : 38 zmg, will decrease by 6 zmg (staking 20%, masternode 80%)  
 3000 zmg required coins for masternode  
 blocktime : 60 sec  
-total supply : 38,000,000  
+max supply limit : ~ 38,000,000  
 genesis date	: 9th May, 2018  
   
 ***
@@ -20,7 +20,7 @@ exchanges : https://graviex.net/markets/zmgbtc
 decentralized exchanges : https://wallet.crypto-bridge.org/market/BRIDGE.ZMG_BRIDGE.BTC  
 masternode online : https://masternodes.online/currencies/ZMG/  
   
-[`wallet`](https://github.com/robinadaptor/zmining-wallet)    
+[`wallet`](https://github.com/robinadaptor/zmining-wallet)  [`discord`](https://discord.gg/pzNVVP)  
 
 ***
 ## Donations 
